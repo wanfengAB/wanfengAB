@@ -6,6 +6,10 @@
 厂库里的文件是转载的，请支持正版！！
 
 **重要的事说三遍！！！**
+
+## 正版链接：
+
+**https://github.com/FCL-Team/FoldCraftLauncher**
 <!--
 **wanfengAB/wanfengAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
